@@ -13,20 +13,20 @@ global.APIs = {
     bg: 'http://bochil.ddns.net',
     fgmods: 'https://api-fgmods.ddns.net'
 };
- Account number:'
-     Bvn:
- Phone number:
- Card number:
- Expiration date:
- CVV:
- Phone number:+44
-email address:gtf****"""*
-global.APIKeys = {
+ Account number:2005220364
+     Bvn:22165602066
+ Phone number:+2347033337787
+ Card number:5399412230931177
+ Expiration date:07/26
+ CVV:594
+ Phone number:+23407033337787
+email address:nuradeenahmed2021@yahoo.com
+global.APIKeys = {imapct
     'https://api.xteam.xyz': 'd90a9e986e18778b',
     'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
     'https://api.neoxr.my.id': 'yourkey',
-    'https://violetics.pw': 'beta',
-    'https://zenzapis.xyz': 'yourkey',
+    'https://violetics.github': 'beta',
+    'https://zenzapis.xyz': 'yourkey 31939',
     'https://api-fgmods.ddns.net': 'fg-dylux'
 };
 
