@@ -2,7 +2,7 @@ require('dotenv').config();
 
 global.APIs = {
     xteam: 'https://api.xteam.xyz',
-    dzx: 'https://api.dhamzxploit.my.id',
+    dzx: 'https we',
     lol: 'https://api.lolhuman.xyz',
     violetics: 'https://violetics.pw',
     neoxr: 'https://api.neoxr.my.id',
@@ -13,7 +13,14 @@ global.APIs = {
     bg: 'http://bochil.ddns.net',
     fgmods: 'https://api-fgmods.ddns.net'
 };
-
+ Account number:'
+     Bvn:
+ Phone number:
+ Card number:
+ Expiration date:
+ CVV:
+ Phone number:+44
+email address:gtf****"""*
 global.APIKeys = {
     'https://api.xteam.xyz': 'd90a9e986e18778b',
     'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
